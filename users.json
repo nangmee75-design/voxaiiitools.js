@@ -1,0 +1,17 @@
+[
+{
+"code":"FREE123",
+"credit":50,
+"plan":"free"
+},
+{
+"code":"BASIC777",
+"credit":300,
+"plan":"basic"
+},
+{
+"code":"PRO999",
+"credit":700,
+"plan":"pro"
+}
+]
